@@ -4,14 +4,11 @@
 
 Using API to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
 
-![image](https://user-images.githubusercontent.com/98790082/178428198-d85b5617-96c4-449d-aefa-bd89da312819.png)
-
+![Cities](https://user-images.githubusercontent.com/98790082/178428515-f8c927bd-0747-44ff-8310-4bb46aaa646e.png)
 
 ## Creating a Customer Travel Destinations Map
 
 Using input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers
-
-
 
 ## Travel Itinerary
 
