@@ -4,7 +4,8 @@
 
 Using API to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
 
-![image](https://user-images.githubusercontent.com/98790082/178427461-e1972378-ba8c-4ea0-a621-ff24c9d6c576.png)
+![image](https://user-images.githubusercontent.com/98790082/178428198-d85b5617-96c4-449d-aefa-bd89da312819.png)
+
 
 ## Creating a Customer Travel Destinations Map
 
